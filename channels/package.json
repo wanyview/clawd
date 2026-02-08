@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@m1heng-clawd/feishu": "github:m1heng/Clawdbot-feishu",
+    "openclaw-feishu": "^0.1.4"
+  }
+}

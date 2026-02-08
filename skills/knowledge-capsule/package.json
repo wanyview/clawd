@@ -1,0 +1,12 @@
+{
+  "id": "knowledge-capsule",
+  "name": "知识胶囊",
+  "version": "1.0.0",
+  "main": "skill.js",
+  "dependencies": {
+    "services/knowledge-capsule": "*"
+  },
+  "openclaw": {
+    "compatibility": ">=2026.1.0"
+  }
+}

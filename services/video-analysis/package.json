@@ -1,0 +1,10 @@
+{
+  "name": "video-analysis-service",
+  "version": "1.0.0",
+  "description": "Video analysis service for OpenClaw",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,37 @@
+{
+  "skills": {
+    "knowledge-capsule": {
+      "id": "knowledge-capsule",
+      "name": "知识胶囊",
+      "version": "1.0.0",
+      "enabled": true,
+      "path": "skills/knowledge-capsule"
+    },
+    "video-analysis": {
+      "id": "video-analysis",
+      "name": "视频分析",
+      "version": "1.0.0",
+      "enabled": false,
+      "path": "services/video-analysis",
+      "note": "需要先安装 ffmpeg"
+    }
+  },
+  "services": {
+    "knowledge-capsule-service": {
+      "path": "services/knowledge-capsule",
+      "autoStart": true
+    },
+    "feishu-integration": {
+      "path": "services/feishu-integration",
+      "autoStart": false
+    },
+    "video-analysis-service": {
+      "path": "services/video-analysis",
+      "autoStart": false
+    }
+  },
+  "datm": {
+    "enabled": true,
+    "defaultThreshold": 0.7
+  }
+}
