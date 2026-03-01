@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>知识沙龙 - 燧光知识沙龙</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="particles"></div>
+  
+  <nav>
+    <div class="logo">
+      <div class="logo-icon">🔥</div>
+      <span><a href="index.html" style="color: inherit; text-decoration: none;">燧光</a></span>
+    </div>
+    <ul class="nav-links">
+      <li><a href="index.html">首页</a></li>
+      <li><a href="salon.html" class="active">知识沙龙</a></li>
+      <li><a href="capsules.html">知识胶囊</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <div class="container">
+      <div class="two-col">
+        <!-- 左侧边栏 - 主题列表 -->
+        <aside class="sidebar">
+          <h3 style="margin-bottom: 1rem;">🗂️ 讨论主题</h3>
+          <div class="list">
+            <div class="list-item active" onclick="showTopic(0)">
+              <strong>当神经科学遇见AI</strong>
+              <p style="font-size: 0.8rem; color: var(--text-secondary);">12 条讨论</p>
+            </div>
+            <div class="list-item" onclick="showTopic(1)">
+              <strong>知识胶囊的制作工艺</strong>
+              <p style="font-size: 0.8rem; color: var(--text-secondary);">8 条讨论</p>
+            </div>
+            <div class="list-item" onclick="showTopic(2)">
+              <strong>记忆树系统设计</strong>
+              <p style="font-size: 0.8rem; color: var(--text-secondary);">15 条讨论</p>
+            </div>
+            <div class="list-item" onclick="showTopic(3)">
+              <strong>本地大模型应用</strong>
+              <p style="font-size: 0.8rem; color: var(--text-secondary);">6 条讨论</p>
+            </div>
+          </div>
+          
+          <button class="btn btn-primary" style="width: 100%; margin-top: 1rem;">
+            + 新建主题
+          </button>
+        </aside>
+        
+        <!-- 右侧内容 -->
+        <div class="content">
+          <h2 style="margin-bottom: 1rem;">🧠 当神经科学遇见AI</h2>
+          
+          <div class="card" style="margin-bottom: 1rem;">
+            <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+              <span style="color: var(--primary); font-weight: bold;">Kai</span>
+              <span style="color: var(--text-secondary); font-size: 0.8rem;">主持人</span>
+            </div>
+            <p>各位听众朋友们，大家好！欢迎来到燧光知识沙龙。</p>
+            <p style="margin-top: 0.5rem;">今天我们要聊的话题，和咖啡没什么直接关系。但我觉得，这杯"认知的咖啡"，可能会让你喝出不一样的味道——它关于大脑，关于AI，关于未来，关于人类自己。</p>
+          </div>
+          
+          <div class="card" style="margin-bottom: 1rem;">
+            <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+              <span style="color: var(--accent); font-weight: bold;">范维友</span>
+              <span style="color: var(--text-secondary); font-size: 0.8rem;">嘉宾</span>
+            </div>
+            <p>大家好！我是范维友，很高兴来到燧光知识沙龙。</p>
+            <p style="margin-top: 0.5rem;">神经生物学，简单来说，就是研究大脑和神经系统的科学。我们探索大脑如何工作，如何产生意识，如何控制我们的行为。</p>
+          </div>
+          
+          <div class="card" style="margin-bottom: 1rem;">
+            <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+              <span style="color: var(--primary); font-weight: bold;">Kai</span>
+              <span style="color: var(--text-secondary); font-size: 0.8rem;">主持人</span>
+            </div>
+            <p>860亿。这个数字超出了普通人的想象边界。</p>
+            <p style="margin-top: 0.5rem;">就像我们追求的那样——每一杯咖啡都有它的"认知味道"，每一个知识也都应该有它的"思维深度"。</p>
+          </div>
+          
+          <!-- 输入框 -->
+          <div class="card">
+            <textarea 
+              placeholder="分享你的观点..." 
+              style="width: 100%; min-height: 100px; background: var(--bg-dark); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; color: var(--text-primary); resize: none;"
+            ></textarea>
+            <div style="display: flex; justify-content: flex-end; margin-top: 1rem;">
+              <button class="btn btn-primary">发表观点</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  
+  <footer>
+    <p>© 2026 燧光知识沙龙 · 让知识发光</p>
+  </footer>
+  
+  <script src="js/main.js"></script>
+  <script>
+    function showTopic(index) {
+      const items = document.querySelectorAll('.list-item');
+      items.forEach((item, i) => {
+        item.classList.toggle('active', i === index);
+      });
+    }
+  </script>
+</body>
+</html>

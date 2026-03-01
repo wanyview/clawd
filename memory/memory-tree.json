@@ -1,0 +1,40 @@
+# 记忆树生长系统 - Memory-Like-A-Tree
+# 置信度驱动的记忆生命周期
+
+## 核心概念
+- 🌱 萌芽 (confidence: 0.7): 刚创建/学到的知识
+- 🌿 绿叶 (confidence: ≥0.8): 活跃使用的知识  
+- 🍂 黄叶 (confidence: 0.5-0.8): 开始衰减的知识
+- 🍁 枯叶 (confidence: <0.3): 准备归档的知识
+- 🪨 土壤 (confidence: 0): 已归档，精华保留
+
+## 置信度变化规则
+### 变绿 (+)
+- 搜索命中: +0.03
+- 引用使用: +0.08  
+- 人工确认重要: 设为 0.95
+
+### 变黄 (-)
+- P0 (核心规则): 永不衰减
+- P1 (重要): 每天 -0.004
+- P2 (一般): 每天 -0.008
+
+## 优先级定义
+- P0: 核心身份、关键规则、用户偏好
+- P1: 项目进展、重要约定
+- P2: 一般知识、临时笔记
+
+## 索引
+- 2026-02-04.md: P0
+- 2026-02-08.md: P2
+- KAI-跨平台知识库.md: P1
+- TIER-WaytoAGI发布版.md: P2
+- TIER-复旦沙龙2026.md: P2
+- TIER-天津大学2026.md: P2
+- TIER-完整发布套件.md: P1
+- github_iteration_plan.md: P1
+- knowledge_capsule_system.md: P1
+- multi_role_system.md: P1
+- wanyview_github_projects_analysis.md: P2
+- wanyview_learning_notes.md: P2
+- tier_responsibility_matrix.md: P1

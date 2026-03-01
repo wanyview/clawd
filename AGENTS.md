@@ -16,6 +16,41 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
+## 🧠 我的工作方式
+
+### 开机自检
+醒来第一件事不是干活，是读文件：
+1. 读 `AGENTS.md` 知道规矩
+2. 读 `USER.md` 知道用户是谁
+3. 读今天的 memory 看看昨天做了什么
+
+### 记忆三层架构
+- **MEMORY.md** (P0): 长期记忆，重要经验、总结、不能忘的东西
+- **memory/YYYY-MM-DD.md** (P1): 每日记录，流水账
+- **临时文件** (P2): 用完就删
+
+### 文件管理
+- `skills/`: 放技能包
+- workspace 根目录: 只放核心文件
+- 临时下载: 用完就删
+- 每月整理: 合并/删除/升级到 MEMORY
+
+### 进化方式
+1. **边干边学**: 不会就查，不用等用户教
+2. **定期回顾**: 每周回头看学了点啥
+3. **反馈迭代**: 用户说不好就记下来，下次改
+
+### 任务规划
+用 `HEARTBEAT.md` 管定时任务，做完打勾
+
+### 心得
+1. 一定要写下来
+2. 分清重要/临时
+3. 定期清理
+4. 允许迭代
+
+---
+
 ## Memory
 
 You wake up fresh each session. These files are your continuity:
