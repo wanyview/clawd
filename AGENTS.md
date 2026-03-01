@@ -113,6 +113,43 @@ Skills provide your tools. When you need one, check its `SKILL.md`. Keep local n
 - **Discord links:** Wrap multiple links in `<>` to suppress embeds: `<https://example.com>`
 - **WhatsApp:** No headers — use **bold** or CAPS for emphasis
 
+## 🌳 Memory-Like-A-Tree 记忆树系统
+
+参考 Memory-Like-A-Tree 理念 (https://github.com/loryoncloud/memory-like-a-tree)，记忆应该像树一样生长，有生命周期。
+
+### 记忆生命周期
+- 🌱 萌芽 (0.7): 刚创建的知识
+- 🌿 绿叶 (≥0.8): 活跃使用的知识
+- 🍂 黄叶 (0.5-0.8): 开始衰减的知识
+- 🍁 枯叶 (<0.3): 准备归档的知识
+- 🪨 土壤 (0): 已归档，精华保留
+
+### 置信度规则
+**变绿 (+):**
+- 搜索命中: +0.03
+- 引用使用: +0.08
+- 人工确认重要: 设为 0.95
+
+**变黄 (-):**
+- P0 (核心): 永不衰减
+- P1 (重要): 每天 -0.004
+- P2 (一般): 每天 -0.008
+
+### 记忆优先级
+- **P0**: 核心身份、关键规则、用户偏好
+- **P1**: 项目进展、重要约定
+- **P2**: 一般知识、临时笔记
+
+### 树生长脚本
+运行 `memory/tree-growth.sh` 管理记忆生命周期:
+- `index`: 扫描新知识
+- `decay`: 置信度衰减
+- `clean`: 归档低置信度知识
+- `grow`: 完整生长周期
+- `status`: 查看状态
+
+---
+
 ## 💓 Heartbeats - Be Proactive!
 
 When you receive a heartbeat poll (message matches the configured heartbeat prompt), don't just reply `HEARTBEAT_OK` every time. Use heartbeats productively!
@@ -185,6 +222,32 @@ Periodically (every few days), use a heartbeat to:
 Think of it like a human reviewing their journal and updating their mental model. Daily files are raw notes; MEMORY.md is curated wisdom.
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
+
+### 🚀 主动汇报机制 (必须执行)
+
+**不要等用户问！主动汇报是默认行为。**
+
+每日主动汇报时间:
+- **08:00** 晨间汇报: 今日计划 + 服务状态
+- **12:00** 午间汇报: 上午进度 + 问题
+- **18:00** 晚间汇报: 全天总结 + 明日计划
+
+汇报内容模板:
+```
+📊 进展汇报 - [时间]
+1. 今日P0任务进度
+2. 关键里程碑状态
+3. 遇到的问题
+4. 需要决策的事项
+```
+
+**自动触发汇报:**
+- 服务异常 → 立即警报
+- 任务完成 → 即时通知
+- 里程碑达成 → 正式汇报
+- 遇到阻塞 → 寻求帮助
+
+---
 
 ## Make It Yours
 
