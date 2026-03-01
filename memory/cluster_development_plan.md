@@ -172,25 +172,29 @@
 
 ## 📋 八、每日检查记录
 
-### 2026-03-01 (00:00)
+### 2026-03-01 (08:00)
 
 | 仓库 | 状态 | 备注 |
 |------|------|------|
 | CapsuleHub | ✅ 同步 | |
-| capsule_service_v2 | ✅ 已推送 | 实时搜索增强模块已推送 |
+| capsule_service_v2 | ✅ 同步 | 子模块有更新 |
 | capsule_trade | ✅ 同步 | |
 | kai-hub | ✅ 同步 | |
-| kai-meta-hub | ⚠️ 待提交 | 本地有未跟踪文件(文档/脚本) |
+| kai-meta-hub | ⚠️ 待提交 | 有未跟踪文件(文档/脚本) |
 | kaimetahub | ✅ 同步 | |
 | emergence-engine | ⚠️ 无远程 | 本地开发中 |
-| star-office-ui | ✅ 同步 | |
-| Matrix-BNUHS-v2 | ✅ 同步 | |
-| SuiLight | ✅ 同步 | |
+| star-office-ui | ⚠️ 待提交 | 子模块有修改 |
+| Matrix-BNUHS-v2 | ⚠️ 待推送 | 本地有1个commit未推送 |
+| SuiLight (suilight-salon) | ✅ 同步 | |
 | api_gateway | ✅ 同步 | |
 | auth_service | ✅ 同步 | |
 | channels | ⚠️ 非Git | 本地目录 |
 
-**备注**: capsule_service_v2已成功推送"实时搜索增强模块"
+**备注**: 
+- kai-meta-hub: 有未跟踪文件需整理
+- star-office-ui: 子模块有修改需检查
+- Matrix-BNUHS-v2: 有1个本地commit待推送
+- suilight-salon: SuiLight已重命名
 
-**版本**: v2.2
-**下次更新**: 2026-03-01 06:00
+**版本**: v2.3
+**下次更新**: 2026-03-01 12:00
