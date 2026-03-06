@@ -1,0 +1,3894 @@
+[
+  {
+    "id": "fac1ffd0-1c9b-4fd3-bf40-50f01500f80a",
+    "title": "量子纠缠的瞬时关联",
+    "domain": "physics",
+    "topics": [
+      "quantum",
+      "entanglement"
+    ],
+    "insight": "量子纠缠展示了一种超越经典物理的瞬时关联",
+    "evidence": [
+      "Bell实验验证了量子纠缠",
+      "2022年诺贝尔物理学奖"
+    ],
+    "action_items": [
+      "探索量子纠缠在量子计算中的应用"
+    ],
+    "datm_score": {
+      "truth": 76,
+      "goodness": 73,
+      "beauty": 70,
+      "intelligence": 92
+    },
+    "confidence": 0.8651207423774688,
+    "overall_score": 67.2631377198482,
+    "overall_grade": "B",
+    "applicability": "量子计算、量子通信",
+    "limitations": [],
+    "reproducibility": 0.8,
+    "impact_potential": 0.7,
+    "source_type": "discussion",
+    "source_id": null,
+    "authors": [
+      "爱因斯坦",
+      "玻尔"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-30T23:52:41.647251",
+    "updated_at": "2026-01-30T23:52:41.647251",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于量子纠缠的瞬时关联的问题"
+        ],
+        "keywords": [
+          "quantum",
+          "entanglement"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "48405220-0dae-43cc-9ecf-5e7e36d437c7",
+    "title": "Transformer自注意力机制",
+    "domain": "AI",
+    "topics": [
+      "transformer",
+      "attention"
+    ],
+    "insight": "Transformer的自注意力机制让模型能动态关注不同位置的信息",
+    "evidence": [
+      "Attention Is All You Need论文",
+      "GPT/BERT都基于Transformer"
+    ],
+    "action_items": [
+      "尝试不同的注意力掩码策略"
+    ],
+    "datm_score": {
+      "truth": 80,
+      "goodness": 88,
+      "beauty": 76,
+      "intelligence": 80
+    },
+    "confidence": 0.8796181560273086,
+    "overall_score": 71.249070638212,
+    "overall_grade": "B",
+    "applicability": "自然语言处理",
+    "limitations": [],
+    "reproducibility": 0.8,
+    "impact_potential": 0.7,
+    "source_type": "discussion",
+    "source_id": null,
+    "authors": [
+      "Vaswani",
+      "Shazeer"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-30T23:52:41.649399",
+    "updated_at": "2026-01-30T23:52:41.649399",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于Transformer自注意力机制的问题"
+        ],
+        "keywords": [
+          "transformer",
+          "attention"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "e1cd423a-8df5-4499-aa60-20971328455c",
+    "title": "气候变化对农业的多维影响",
+    "domain": "climate",
+    "topics": [
+      "climate-change",
+      "agriculture"
+    ],
+    "insight": "气候变化通过温度升高、极端天气影响农业生产",
+    "evidence": [
+      "IPCC报告预测粮食产量下降",
+      "2012年美国干旱导致玉米减产"
+    ],
+    "action_items": [
+      "推广抗旱作物品种"
+    ],
+    "datm_score": {
+      "truth": 78,
+      "goodness": 71,
+      "beauty": 87,
+      "intelligence": 88
+    },
+    "confidence": 0.7955941212913271,
+    "overall_score": 64.44312382459749,
+    "overall_grade": "B",
+    "applicability": "农业政策、粮食安全",
+    "limitations": [],
+    "reproducibility": 0.8,
+    "impact_potential": 0.7,
+    "source_type": "discussion",
+    "source_id": null,
+    "authors": [
+      "IPCC专家组"
+    ],
+    "license": "CC-BY-4.0",
+    "created_at": "2026-01-30T23:52:41.649442",
+    "updated_at": "2026-01-30T23:52:41.649442",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于气候变化对农业的多维影响的问题"
+        ],
+        "keywords": [
+          "climate-change",
+          "agriculture"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "54f33867-54c7-46df-b1f4-1acaca6ad309",
+    "title": "测试胶囊",
+    "domain": "test",
+    "topics": [
+      "test"
+    ],
+    "insight": "这是一个测试",
+    "evidence": [
+      "测试1"
+    ],
+    "action_items": [
+      "测试2"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "测试"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T02:30:43.700982",
+    "updated_at": "2026-01-31T02:30:43.700989",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于测试胶囊的问题"
+        ],
+        "keywords": [
+          "test"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "08878fdc-3e71-4d73-935b-f2bba60c7e01",
+    "title": "爱迪生发明电灯泡 - 技术路径复现",
+    "domain": "technology",
+    "topics": [
+      "invention",
+      "electricity",
+      "edison",
+      "light-bulb",
+      "industrial-revolution"
+    ],
+    "insight": "通过多轮讨论，复现了1879年爱迪生发明实用电灯泡的关键技术路径：\n\n1. 材料突破：碳化竹丝作为灯丝，平衡了成本、耐用性和发光效率\n2. 真空技术：高真空环境减缓灯丝氧化，延长寿命至13.5小时\n3. 系统工程：需要配套的发电、输电、灯座标准化体系\n\n关键洞见：在1879年技术条件下，碳化竹丝是综合最优解，而非铂金等贵金属。",
+    "evidence": [
+      "测试了超过3000种材料",
+      "碳化竹丝在真空中持续点亮13.5小时",
+      "需要配套的直流电力系统",
+      "标准化生产是商业化关键"
+    ],
+    "action_items": [
+      "建立竹子碳化处理工艺标准",
+      "设计通用灯泡接口和灯座",
+      "在城市中心建设发电站",
+      "开发保险丝等安全装置"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "discussion",
+    "source_id": null,
+    "authors": [
+      "托马斯·爱迪生",
+      "化学家",
+      "物理学家",
+      "电气工程师",
+      "评论家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T02:31:36.554502",
+    "updated_at": "2026-01-31T02:31:36.554503",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于爱迪生发明电灯泡 - 技术路径复现的问题"
+        ],
+        "keywords": [
+          "invention",
+          "electricity",
+          "edison",
+          "light-bulb",
+          "industrial-revolution"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "b6c57b9d-a589-4720-8744-d229e838ba9a",
+    "title": "牛顿发现万有引力定律 - 天地统一的物理学",
+    "domain": "physics",
+    "topics": [
+      "newton",
+      "gravity",
+      "physics",
+      "celestial-mechanics",
+      "unification"
+    ],
+    "insight": "通过多轮讨论，复现了1666年牛顿发现万有引力定律的关键发现：\n\n1. 问题洞察：苹果落地与月亮绕地是同一原因——地球的引力\n2. 数学推导：假设引力与距离平方成反比，结合向心力公式\n3. 月地检验：计算值与观测值吻合，验证假设正确\n4. 统一天地：开普勒行星定律可由万有引力定律推导\n\n核心洞见：支配苹果落地的力，与支配月亮绕地的力，是同一种力——这标志着物理学从\"天地分离\"走向\"天地统一\"。",
+    "evidence": [
+      "月球轨道半径384,000公里，周期27.3天",
+      "计算得向心加速度 0.0027 m/s²",
+      "与平方反比定律预测值完全吻合",
+      "木星卫星运动也遵循同样规律",
+      "潮汐现象可由日月引力解释"
+    ],
+    "action_items": [
+      "测量万有引力常数G（后人完成：卡文迪什1798年）",
+      "将引力定律推广到太阳系所有行星",
+      "解释潮汐现象的定量规律",
+      "后续研究：引力的本质是什么？"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "discussion",
+    "source_id": null,
+    "authors": [
+      "艾萨克·牛顿",
+      "数学家",
+      "天文学家",
+      "力学家",
+      "自然哲学家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T02:31:36.558186",
+    "updated_at": "2026-01-31T02:31:36.558186",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于牛顿发现万有引力定律 - 天地统一的物理学的问题"
+        ],
+        "keywords": [
+          "newton",
+          "gravity",
+          "physics",
+          "celestial-mechanics",
+          "unification"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "61fe1ab1-6030-44ff-b503-37a94a9c7cd1",
+    "title": "爱迪生发明电灯泡 - 技术路径复现",
+    "domain": "technology",
+    "topics": [
+      "invention",
+      "electricity",
+      "edison",
+      "light-bulb",
+      "industrial-revolution"
+    ],
+    "insight": "通过多轮讨论，复现了1879年爱迪生发明实用电灯泡的关键技术路径：\n\n1. 材料突破：碳化竹丝作为灯丝，平衡了成本、耐用性和发光效率\n2. 真空技术：高真空环境减缓灯丝氧化，延长寿命至13.5小时\n3. 系统工程：需要配套的发电、输电、灯座标准化体系\n\n关键洞见：在1879年技术条件下，碳化竹丝是综合最优解，而非铂金等贵金属。",
+    "evidence": [
+      "测试了超过3000种材料",
+      "碳化竹丝在真空中持续点亮13.5小时",
+      "需要配套的直流电力系统",
+      "标准化生产是商业化关键"
+    ],
+    "action_items": [
+      "建立竹子碳化处理工艺标准",
+      "设计通用灯泡接口和灯座",
+      "在城市中心建设发电站",
+      "开发保险丝等安全装置"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "discussion",
+    "source_id": null,
+    "authors": [
+      "托马斯·爱迪生",
+      "化学家",
+      "物理学家",
+      "电气工程师",
+      "评论家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T03:16:44.343921",
+    "updated_at": "2026-01-31T03:16:44.343922",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于爱迪生发明电灯泡 - 技术路径复现的问题"
+        ],
+        "keywords": [
+          "invention",
+          "electricity",
+          "edison",
+          "light-bulb",
+          "industrial-revolution"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "1d640a67-abec-4854-bf43-7ba8bcceb50f",
+    "title": "牛顿发现万有引力定律 - 天地统一的物理学",
+    "domain": "physics",
+    "topics": [
+      "newton",
+      "gravity",
+      "physics",
+      "celestial-mechanics",
+      "unification"
+    ],
+    "insight": "通过多轮讨论，复现了1666年牛顿发现万有引力定律的关键发现：\n\n1. 问题洞察：苹果落地与月亮绕地是同一原因——地球的引力\n2. 数学推导：假设引力与距离平方成反比，结合向心力公式\n3. 月地检验：计算值与观测值吻合，验证假设正确\n4. 统一天地：开普勒行星定律可由万有引力定律推导\n\n核心洞见：支配苹果落地的力，与支配月亮绕地的力，是同一种力——这标志着物理学从\"天地分离\"走向\"天地统一\"。",
+    "evidence": [
+      "月球轨道半径384,000公里，周期27.3天",
+      "计算得向心加速度 0.0027 m/s²",
+      "与平方反比定律预测值完全吻合",
+      "木星卫星运动也遵循同样规律",
+      "潮汐现象可由日月引力解释"
+    ],
+    "action_items": [
+      "测量万有引力常数G（后人完成：卡文迪什1798年）",
+      "将引力定律推广到太阳系所有行星",
+      "解释潮汐现象的定量规律",
+      "后续研究：引力的本质是什么？"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "discussion",
+    "source_id": null,
+    "authors": [
+      "艾萨克·牛顿",
+      "数学家",
+      "天文学家",
+      "力学家",
+      "自然哲学家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T03:16:44.347392",
+    "updated_at": "2026-01-31T03:16:44.347392",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于牛顿发现万有引力定律 - 天地统一的物理学的问题"
+        ],
+        "keywords": [
+          "newton",
+          "gravity",
+          "physics",
+          "celestial-mechanics",
+          "unification"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "d706ac19-b200-4ac4-b4fd-aa14b39586f7",
+    "title": "2026年前瞻：AI能否自主发现科学定律？",
+    "domain": "AI",
+    "topics": [
+      "AI",
+      "科学发现",
+      "自动化科学",
+      "人机协作",
+      "未来预测"
+    ],
+    "insight": "基于2026年AI发展水平，讨论得出核心结论：AI正在成为科学发现的加速器，而非替代者。人类+AI协作模式将主导未来。",
+    "evidence": [
+      "AlphaFold预测2亿种蛋白质结构",
+      "AlphaGeometry解决IMO几何问题",
+      "GPT-4展示跨领域推理能力"
+    ],
+    "action_items": [
+      "建立AI辅助科学发现的评估框架",
+      "发展人机协作的新科学方法论"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "AI研究员",
+      "科学哲学家",
+      "理论物理学家",
+      "计算生物学家",
+      "认知科学家",
+      "AI工程师"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T03:17:33.785816",
+    "updated_at": "2026-01-31T03:17:33.785822",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于2026年前瞻：AI能否自主发现科学定律？的问题"
+        ],
+        "keywords": [
+          "AI",
+          "科学发现",
+          "自动化科学",
+          "人机协作",
+          "未来预测"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "a860da8d-7248-4d2b-a66d-1b26ea02078b",
+    "title": "2026前瞻：AI + 合成生物学 = 下一个生物学革命？",
+    "domain": "AI",
+    "topics": [
+      "AI",
+      "合成生物学",
+      "跨学科",
+      "生物工程",
+      "伦理",
+      "未来预测"
+    ],
+    "insight": "2026年，AI与合成生物学的融合正在引发生物学革命。核心共识：需要跨学科协作、伦理框架和国际监管。",
+    "evidence": [
+      "AlphaFold2预测2亿种蛋白质结构",
+      "AI设计代谢通路生产抗癌药物前体",
+      "AI+量子计算实现高精度分子模拟"
+    ],
+    "action_items": [
+      "建立全球AI-生物安全联盟",
+      "发展跨学科教育和研究项目",
+      "制定AI设计生物系统的伦理准则"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "AI生物工程师",
+      "合成生物学家",
+      "生物伦理学家",
+      "量子化学家",
+      "系统生物学家",
+      "科技哲学家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T03:38:34.897810",
+    "updated_at": "2026-01-31T03:38:34.897816",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于2026前瞻：AI + 合成生物学 = 下一个生物学革命？的问题"
+        ],
+        "keywords": [
+          "AI",
+          "合成生物学",
+          "跨学科",
+          "生物工程",
+          "伦理",
+          "未来预测"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "f3e0efab-24bd-4e16-8630-a7f05a4308ba",
+    "title": "脑机接口的运动意图神经解码",
+    "domain": "neuroscience",
+    "topics": [
+      "BCI",
+      "运动意图",
+      "神经解码",
+      "运动皮层"
+    ],
+    "insight": "脑机接口通过解码运动皮层中的神经活动模式来获取用户的运动意图。研究发现，即使猴子和人类在执行不同方向的手部运动时，单个神经元的活动方向与运动方向高度一致，这为建立运动意图与神经信号之间的映射关系提供了基础。通过群体向量分析和机器学习方法，可以实现高精度的意图识别。",
+    "evidence": [
+      "Georgopoulos等人1986年发现运动皮层神经元的调谐方向",
+      "多个神经元活动的群体向量可以预测运动方向",
+      "深度学习解码器在离线分析中准确率可达95%以上"
+    ],
+    "action_items": [
+      "优化实时解码算法以降低延迟",
+      "开发个性化的神经信号模型以提高适应性",
+      "建立标准化的BCI性能评估框架"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "神经科学家",
+      "AI研究员",
+      "临床医生"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.767649",
+    "updated_at": "2026-01-31T04:31:23.767650",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于脑机接口的运动意图神经解码的问题"
+        ],
+        "keywords": [
+          "BCI",
+          "运动意图",
+          "神经解码",
+          "运动皮层"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "5bda3b7d-5695-43cd-8e8f-e7ad5b25490e",
+    "title": "闭环BCI的感觉反馈机制",
+    "domain": "neuroscience",
+    "topics": [
+      "闭环BCI",
+      "感觉反馈",
+      "神经可塑性",
+      "触觉体验"
+    ],
+    "insight": "闭环脑机接口需要将感觉信息反馈给大脑，以完成感知-动作循环。电触觉刺激是常用的感觉反馈方式，通过在感觉皮层或外周神经施加电刺激，可以产生类似触觉的感觉。然而，如何产生自然、细腻的感觉体验仍是一个挑战，需要精确控制刺激参数以匹配用户的感知阈值。",
+    "evidence": [
+      "微刺激感觉皮层可以产生可辨别的触觉感觉",
+      "闭环BCI中感觉反馈可以促进神经可塑性",
+      "触觉反馈的时机和强度对用户体验有显著影响"
+    ],
+    "action_items": [
+      "开发更精确的感觉反馈控制算法",
+      "研究神经可塑性在长期BCI使用中的作用",
+      "设计个性化的感觉反馈方案"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "神经科学家",
+      "生物医学工程师"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.772342",
+    "updated_at": "2026-01-31T04:31:23.772342",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于闭环BCI的感觉反馈机制的问题"
+        ],
+        "keywords": [
+          "闭环BCI",
+          "感觉反馈",
+          "神经可塑性",
+          "触觉体验"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "eb9b6c32-5d1f-4258-b3fa-0c222340798a",
+    "title": "BCI的神经可塑性与学习",
+    "domain": "neuroscience",
+    "topics": [
+      "神经可塑性",
+      "BCI学习",
+      "皮层重映射",
+      "适应"
+    ],
+    "insight": "长期使用脑机接口会引发大脑的神经可塑性变化。研究表明，大脑可以学会直接控制BCI信号，就像控制自然肢体一样。这种学习过程涉及运动皮层的神经回路重组，使得原本与肢体运动相关的神经元逐渐适应直接产生BCI输出信号。理解这一过程对于优化BCI训练方案至关重要。",
+    "evidence": [
+      "猴子可以通过学习直接控制光标，无需肌肉运动",
+      "BCI学习过程中运动皮层的神经活动模式发生变化",
+      "神经反馈训练可以加速BCI学习过程"
+    ],
+    "action_items": [
+      "设计有效的BCI训练协议以加速神经可塑性",
+      "研究个体差异对BCI学习的影响",
+      "开发基于神经可塑性的BCI适配技术"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "神经科学家",
+      "康复医学专家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.776731",
+    "updated_at": "2026-01-31T04:31:23.776732",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于BCI的神经可塑性与学习的问题"
+        ],
+        "keywords": [
+          "神经可塑性",
+          "BCI学习",
+          "皮层重映射",
+          "适应"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "59f8ea39-ba08-4afc-9d95-142148c8db03",
+    "title": "深度学习在神经信号解码中的应用",
+    "domain": "ai",
+    "topics": [
+      "深度学习",
+      "神经信号解码",
+      "LSTM",
+      "CNN"
+    ],
+    "insight": "深度学习技术已广泛应用于脑机接口的神经信号解码。与传统方法相比，深度学习模型能够自动学习神经信号中的复杂时空特征，显著提高了解码准确率。特别是LSTM网络适合处理时间序列数据，CNN可以提取局部空间特征，而Transformer架构能够捕获长程依赖关系。",
+    "evidence": [
+      "深度神经网络在运动意图解码任务中准确率超过传统方法",
+      "迁移学习可以减少新用户所需的数据量和训练时间",
+      "轻量化模型可以满足实时解码的延迟要求"
+    ],
+    "action_items": [
+      "开发更高效的深度学习解码架构",
+      "研究小样本学习方法以降低BCI校准负担",
+      "探索自监督学习在神经信号分析中的应用"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "AI研究员",
+      "神经科学家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.781070",
+    "updated_at": "2026-01-31T04:31:23.781070",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于深度学习在神经信号解码中的应用的问题"
+        ],
+        "keywords": [
+          "深度学习",
+          "神经信号解码",
+          "LSTM",
+          "CNN"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "7e49b46e-df22-402c-b422-e4e1f62ef212",
+    "title": "低延迟实时BCI系统设计",
+    "domain": "ai",
+    "topics": [
+      "实时系统",
+      "低延迟",
+      "边缘计算",
+      "嵌入式系统"
+    ],
+    "insight": "脑机接口的实时性能对用户体验至关重要。系统延迟来源包括神经信号采集、信号处理、解码算法和设备输出等多个环节。为了实现自然流畅的交互体验，总延迟应控制在100毫秒以内。边缘计算和专用硬件加速是降低延迟的有效策略。",
+    "evidence": [
+      "人类感知延迟约100毫秒，运动响应延迟更短",
+      "优化后的神经网络推理延迟可低于10毫秒",
+      "专用神经形态芯片可实现微秒级处理"
+    ],
+    "action_items": [
+      "设计端到端的低延迟处理流水线",
+      "开发适用于嵌入式设备的轻量化模型",
+      "探索硬件加速在BCI系统中的应用"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "嵌入式系统工程师",
+      "AI研究员"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.785303",
+    "updated_at": "2026-01-31T04:31:23.785304",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于低延迟实时BCI系统设计的问题"
+        ],
+        "keywords": [
+          "实时系统",
+          "低延迟",
+          "边缘计算",
+          "嵌入式系统"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "10be6f04-5665-45ad-b1aa-37f6a5de832f",
+    "title": "个性化BCI模型的自适应学习",
+    "domain": "ai",
+    "topics": [
+      "个性化",
+      "迁移学习",
+      "在线学习",
+      "域适应"
+    ],
+    "insight": "不同用户之间的神经信号特征存在显著差异，因此需要个性化的解码模型。迁移学习和在线学习方法可以在少量数据的情况下快速适应新用户，显著降低BCI系统的初始校准负担。持续学习机制使模型能够随用户状态变化进行动态调整。",
+    "evidence": [
+      "基于预训练模型的迁移学习可减少80%的校准数据需求",
+      "在线自适应算法可实时跟踪神经信号变化",
+      "元学习方法可以在多个用户间快速泛化"
+    ],
+    "action_items": [
+      "建立大规模神经信号数据集以支持迁移学习研究",
+      "开发鲁棒的在线学习算法",
+      "设计用户友好的个性化校准流程"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "机器学习研究员",
+      "人机交互专家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.789609",
+    "updated_at": "2026-01-31T04:31:23.789609",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于个性化BCI模型的自适应学习的问题"
+        ],
+        "keywords": [
+          "个性化",
+          "迁移学习",
+          "在线学习",
+          "域适应"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "218d05aa-9fdc-4b20-98fa-587d725fd24f",
+    "title": "脑机接口的认知隐私问题",
+    "domain": "ethics",
+    "topics": [
+      "认知隐私",
+      "数据安全",
+      "知情同意",
+      "神经权利"
+    ],
+    "insight": "脑机接口技术可能使个人的思维活动面临前所未有的暴露风险。与传统数据不同，神经信号可能包含用户的意图、情感甚至是无意识的想法，引发严重的隐私担忧。如何定义、保护和监管认知隐私成为BCI时代的重要伦理议题，需要建立新的法律框架和技术保护机制。",
+    "evidence": [
+      "神经信号可能泄露比用户主动表达更多的信息",
+      "现有的数据保护法律难以充分涵盖神经数据",
+      "公众对认知隐私的担忧正在增加"
+    ],
+    "action_items": [
+      "制定专门的神经数据保护法规",
+      "开发保护认知隐私的技术方案",
+      "建立BCI使用的伦理审查机制"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "伦理学家",
+      "法律学者",
+      "技术专家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.793946",
+    "updated_at": "2026-01-31T04:31:23.793947",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于脑机接口的认知隐私问题的问题"
+        ],
+        "keywords": [
+          "认知隐私",
+          "数据安全",
+          "知情同意",
+          "神经权利"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "4c38f08c-b24e-436c-8802-6727d2389d5e",
+    "title": "认知增强的伦理边界",
+    "domain": "ethics",
+    "topics": [
+      "认知增强",
+      "公平性",
+      "人类增强",
+      "伦理极限"
+    ],
+    "insight": "脑机接口技术不仅可能恢复丧失的功能，还可能增强正常认知能力，如记忆、注意力或信息处理速度。这种可能性引发了关于公平性、人类身份和伦理边界的深层讨论。增强技术是否应该被允许？在何种条件下允许？如何防止增强技术加剧社会不平等？这些问题需要跨学科的深入探讨。",
+    "evidence": [
+      "已有研究探索了记忆增强的神经刺激方法",
+      "部分科技公司公开支持认知增强技术的发展",
+      "公众对认知增强的态度因应用场景而异"
+    ],
+    "action_items": [
+      "建立认知增强技术的分级分类管理框架",
+      "开展公众参与的技术伦理讨论",
+      "制定防止技术滥用的安全措施"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "生物伦理学家",
+      "社会学家",
+      "哲学家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.798211",
+    "updated_at": "2026-01-31T04:31:23.798212",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于认知增强的伦理边界的问题"
+        ],
+        "keywords": [
+          "认知增强",
+          "公平性",
+          "人类增强",
+          "伦理极限"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "448b4fb9-3684-4511-af2d-bc4ab5519adc",
+    "title": "BCI技术的公平获取与社会影响",
+    "domain": "ethics",
+    "topics": [
+      "技术获取",
+      "数字鸿沟",
+      "健康公平",
+      "普惠技术"
+    ],
+    "insight": "脑机接口技术目前主要服务于医疗康复领域，但其高昂的成本和技术门槛可能限制其在更广泛人群中的普及。如果BCI成为改善生活质量的重要手段，如何确保不同社会经济背景的人群都能公平获取这项技术，成为需要解决的社会问题。普惠性设计和开源生态可能有助于缩小这一差距。",
+    "evidence": [
+      "目前BCI设备价格高昂，限制了普及范围",
+      "低收入群体获得先进医疗技术的机会较少",
+      "开源BCI项目正在降低技术门槛"
+    ],
+    "action_items": [
+      "开发低成本BCI解决方案",
+      "建立BCI技术的公共资助和普惠机制",
+      "推动BCI技术的开源和可及性"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "公共政策专家",
+      "社会学家",
+      "技术活动家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.802443",
+    "updated_at": "2026-01-31T04:31:23.802444",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于BCI技术的公平获取与社会影响的问题"
+        ],
+        "keywords": [
+          "技术获取",
+          "数字鸿沟",
+          "健康公平",
+          "普惠技术"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "8b46d593-a8dc-4165-a580-77a2e9ff339e",
+    "title": "材料科学与BCI电极创新",
+    "domain": "materials_science",
+    "topics": [
+      "柔性电极",
+      "生物相容性",
+      "长期植入",
+      "纳米材料"
+    ],
+    "insight": "脑机接口的性能和安全性很大程度上取决于电极材料的选择。传统刚性金属电极会引起免疫反应和神经炎症，限制长期使用。柔性聚合物电极、导电水凝胶和纳米材料提供了更好的生物相容性和更稳定的神经接口，为长期植入式BCI开辟了新可能。",
+    "evidence": [
+      "柔性电极的免疫响应显著低于刚性电极",
+      "导电聚合物可以在神经界面提供更稳定的记录",
+      "纳米材料增强的电极具有更高的信噪比"
+    ],
+    "action_items": [
+      "开发下一代生物相容性电极材料",
+      "建立长期植入式BCI的安全评估标准",
+      "探索可降解电极在临时BCI中的应用"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "材料科学家",
+      "生物医学工程师"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:31:23.806727",
+    "updated_at": "2026-01-31T04:31:23.806727",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于材料科学与BCI电极创新的问题"
+        ],
+        "keywords": [
+          "柔性电极",
+          "生物相容性",
+          "长期植入",
+          "纳米材料"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "4c2c9585-3f1f-4736-8c79-47cd3252117f",
+    "title": "脑机接口的运动意图神经解码",
+    "domain": "neuroscience",
+    "topics": [
+      "BCI",
+      "运动意图",
+      "神经解码",
+      "运动皮层"
+    ],
+    "insight": "脑机接口通过解码运动皮层中的神经活动模式来获取用户的运动意图。研究发现，即使猴子和人类在执行不同方向的手部运动时，单个神经元的活动方向与运动方向高度一致，这为建立运动意图与神经信号之间的映射关系提供了基础。通过群体向量分析和机器学习方法，可以实现高精度的意图识别。",
+    "evidence": [
+      "Georgopoulos等人1986年发现运动皮层神经元的调谐方向",
+      "多个神经元活动的群体向量可以预测运动方向",
+      "深度学习解码器在离线分析中准确率可达95%以上"
+    ],
+    "action_items": [
+      "优化实时解码算法以降低延迟",
+      "开发个性化的神经信号模型以提高适应性",
+      "建立标准化的BCI性能评估框架"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "神经科学家",
+      "AI研究员",
+      "临床医生"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.552308",
+    "updated_at": "2026-01-31T04:40:32.552309",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于脑机接口的运动意图神经解码的问题"
+        ],
+        "keywords": [
+          "BCI",
+          "运动意图",
+          "神经解码",
+          "运动皮层"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "c04579b7-22ef-4298-b068-1f36092f7c15",
+    "title": "闭环BCI的感觉反馈机制",
+    "domain": "neuroscience",
+    "topics": [
+      "闭环BCI",
+      "感觉反馈",
+      "神经可塑性",
+      "触觉体验"
+    ],
+    "insight": "闭环脑机接口需要将感觉信息反馈给大脑，以完成感知-动作循环。电触觉刺激是常用的感觉反馈方式，通过在感觉皮层或外周神经施加电刺激，可以产生类似触觉的感觉。然而，如何产生自然、细腻的感觉体验仍是一个挑战，需要精确控制刺激参数以匹配用户的感知阈值。",
+    "evidence": [
+      "微刺激感觉皮层可以产生可辨别的触觉感觉",
+      "闭环BCI中感觉反馈可以促进神经可塑性",
+      "触觉反馈的时机和强度对用户体验有显著影响"
+    ],
+    "action_items": [
+      "开发更精确的感觉反馈控制算法",
+      "研究神经可塑性在长期BCI使用中的作用",
+      "设计个性化的感觉反馈方案"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "神经科学家",
+      "生物医学工程师"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.557092",
+    "updated_at": "2026-01-31T04:40:32.557092",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于闭环BCI的感觉反馈机制的问题"
+        ],
+        "keywords": [
+          "闭环BCI",
+          "感觉反馈",
+          "神经可塑性",
+          "触觉体验"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "884ce6d9-4104-4fe1-8046-6eb7925fce08",
+    "title": "BCI的神经可塑性与学习",
+    "domain": "neuroscience",
+    "topics": [
+      "神经可塑性",
+      "BCI学习",
+      "皮层重映射",
+      "适应"
+    ],
+    "insight": "长期使用脑机接口会引发大脑的神经可塑性变化。研究表明，大脑可以学会直接控制BCI信号，就像控制自然肢体一样。这种学习过程涉及运动皮层的神经回路重组，使得原本与肢体运动相关的神经元逐渐适应直接产生BCI输出信号。理解这一过程对于优化BCI训练方案至关重要。",
+    "evidence": [
+      "猴子可以通过学习直接控制光标，无需肌肉运动",
+      "BCI学习过程中运动皮层的神经活动模式发生变化",
+      "神经反馈训练可以加速BCI学习过程"
+    ],
+    "action_items": [
+      "设计有效的BCI训练协议以加速神经可塑性",
+      "研究个体差异对BCI学习的影响",
+      "开发基于神经可塑性的BCI适配技术"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "神经科学家",
+      "康复医学专家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.561530",
+    "updated_at": "2026-01-31T04:40:32.561531",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于BCI的神经可塑性与学习的问题"
+        ],
+        "keywords": [
+          "神经可塑性",
+          "BCI学习",
+          "皮层重映射",
+          "适应"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "777d00ef-bc52-4712-8506-edf6da8f552c",
+    "title": "深度学习在神经信号解码中的应用",
+    "domain": "ai",
+    "topics": [
+      "深度学习",
+      "神经信号解码",
+      "LSTM",
+      "CNN"
+    ],
+    "insight": "深度学习技术已广泛应用于脑机接口的神经信号解码。与传统方法相比，深度学习模型能够自动学习神经信号中的复杂时空特征，显著提高了解码准确率。特别是LSTM网络适合处理时间序列数据，CNN可以提取局部空间特征，而Transformer架构能够捕获长程依赖关系。",
+    "evidence": [
+      "深度神经网络在运动意图解码任务中准确率超过传统方法",
+      "迁移学习可以减少新用户所需的数据量和训练时间",
+      "轻量化模型可以满足实时解码的延迟要求"
+    ],
+    "action_items": [
+      "开发更高效的深度学习解码架构",
+      "研究小样本学习方法以降低BCI校准负担",
+      "探索自监督学习在神经信号分析中的应用"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "AI研究员",
+      "神经科学家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.566480",
+    "updated_at": "2026-01-31T04:40:32.566480",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于深度学习在神经信号解码中的应用的问题"
+        ],
+        "keywords": [
+          "深度学习",
+          "神经信号解码",
+          "LSTM",
+          "CNN"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "c0e98df0-ac2d-4738-a124-a3ba5b2e342d",
+    "title": "低延迟实时BCI系统设计",
+    "domain": "ai",
+    "topics": [
+      "实时系统",
+      "低延迟",
+      "边缘计算",
+      "嵌入式系统"
+    ],
+    "insight": "脑机接口的实时性能对用户体验至关重要。系统延迟来源包括神经信号采集、信号处理、解码算法和设备输出等多个环节。为了实现自然流畅的交互体验，总延迟应控制在100毫秒以内。边缘计算和专用硬件加速是降低延迟的有效策略。",
+    "evidence": [
+      "人类感知延迟约100毫秒，运动响应延迟更短",
+      "优化后的神经网络推理延迟可低于10毫秒",
+      "专用神经形态芯片可实现微秒级处理"
+    ],
+    "action_items": [
+      "设计端到端的低延迟处理流水线",
+      "开发适用于嵌入式设备的轻量化模型",
+      "探索硬件加速在BCI系统中的应用"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "嵌入式系统工程师",
+      "AI研究员"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.570788",
+    "updated_at": "2026-01-31T04:40:32.570788",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于低延迟实时BCI系统设计的问题"
+        ],
+        "keywords": [
+          "实时系统",
+          "低延迟",
+          "边缘计算",
+          "嵌入式系统"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "2b4962cc-b5f0-407c-8c25-67d1ea9e935f",
+    "title": "个性化BCI模型的自适应学习",
+    "domain": "ai",
+    "topics": [
+      "个性化",
+      "迁移学习",
+      "在线学习",
+      "域适应"
+    ],
+    "insight": "不同用户之间的神经信号特征存在显著差异，因此需要个性化的解码模型。迁移学习和在线学习方法可以在少量数据的情况下快速适应新用户，显著降低BCI系统的初始校准负担。持续学习机制使模型能够随用户状态变化进行动态调整。",
+    "evidence": [
+      "基于预训练模型的迁移学习可减少80%的校准数据需求",
+      "在线自适应算法可实时跟踪神经信号变化",
+      "元学习方法可以在多个用户间快速泛化"
+    ],
+    "action_items": [
+      "建立大规模神经信号数据集以支持迁移学习研究",
+      "开发鲁棒的在线学习算法",
+      "设计用户友好的个性化校准流程"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "机器学习研究员",
+      "人机交互专家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.575131",
+    "updated_at": "2026-01-31T04:40:32.575131",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于个性化BCI模型的自适应学习的问题"
+        ],
+        "keywords": [
+          "个性化",
+          "迁移学习",
+          "在线学习",
+          "域适应"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "28c9623f-9055-4f46-be52-cd74a11f5849",
+    "title": "脑机接口的认知隐私问题",
+    "domain": "ethics",
+    "topics": [
+      "认知隐私",
+      "数据安全",
+      "知情同意",
+      "神经权利"
+    ],
+    "insight": "脑机接口技术可能使个人的思维活动面临前所未有的暴露风险。与传统数据不同，神经信号可能包含用户的意图、情感甚至是无意识的想法，引发严重的隐私担忧。如何定义、保护和监管认知隐私成为BCI时代的重要伦理议题，需要建立新的法律框架和技术保护机制。",
+    "evidence": [
+      "神经信号可能泄露比用户主动表达更多的信息",
+      "现有的数据保护法律难以充分涵盖神经数据",
+      "公众对认知隐私的担忧正在增加"
+    ],
+    "action_items": [
+      "制定专门的神经数据保护法规",
+      "开发保护认知隐私的技术方案",
+      "建立BCI使用的伦理审查机制"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "伦理学家",
+      "法律学者",
+      "技术专家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.579425",
+    "updated_at": "2026-01-31T04:40:32.579426",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于脑机接口的认知隐私问题的问题"
+        ],
+        "keywords": [
+          "认知隐私",
+          "数据安全",
+          "知情同意",
+          "神经权利"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "57929961-db5f-46d8-a63b-47c8b5ea2062",
+    "title": "认知增强的伦理边界",
+    "domain": "ethics",
+    "topics": [
+      "认知增强",
+      "公平性",
+      "人类增强",
+      "伦理极限"
+    ],
+    "insight": "脑机接口技术不仅可能恢复丧失的功能，还可能增强正常认知能力，如记忆、注意力或信息处理速度。这种可能性引发了关于公平性、人类身份和伦理边界的深层讨论。增强技术是否应该被允许？在何种条件下允许？如何防止增强技术加剧社会不平等？这些问题需要跨学科的深入探讨。",
+    "evidence": [
+      "已有研究探索了记忆增强的神经刺激方法",
+      "部分科技公司公开支持认知增强技术的发展",
+      "公众对认知增强的态度因应用场景而异"
+    ],
+    "action_items": [
+      "建立认知增强技术的分级分类管理框架",
+      "开展公众参与的技术伦理讨论",
+      "制定防止技术滥用的安全措施"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "生物伦理学家",
+      "社会学家",
+      "哲学家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.583700",
+    "updated_at": "2026-01-31T04:40:32.583701",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于认知增强的伦理边界的问题"
+        ],
+        "keywords": [
+          "认知增强",
+          "公平性",
+          "人类增强",
+          "伦理极限"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "e20d4dbe-6305-493f-89a8-743cd9bc9d5b",
+    "title": "BCI技术的公平获取与社会影响",
+    "domain": "ethics",
+    "topics": [
+      "技术获取",
+      "数字鸿沟",
+      "健康公平",
+      "普惠技术"
+    ],
+    "insight": "脑机接口技术目前主要服务于医疗康复领域，但其高昂的成本和技术门槛可能限制其在更广泛人群中的普及。如果BCI成为改善生活质量的重要手段，如何确保不同社会经济背景的人群都能公平获取这项技术，成为需要解决的社会问题。普惠性设计和开源生态可能有助于缩小这一差距。",
+    "evidence": [
+      "目前BCI设备价格高昂，限制了普及范围",
+      "低收入群体获得先进医疗技术的机会较少",
+      "开源BCI项目正在降低技术门槛"
+    ],
+    "action_items": [
+      "开发低成本BCI解决方案",
+      "建立BCI技术的公共资助和普惠机制",
+      "推动BCI技术的开源和可及性"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "公共政策专家",
+      "社会学家",
+      "技术活动家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.587943",
+    "updated_at": "2026-01-31T04:40:32.587943",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于BCI技术的公平获取与社会影响的问题"
+        ],
+        "keywords": [
+          "技术获取",
+          "数字鸿沟",
+          "健康公平",
+          "普惠技术"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "b235f66f-c4a0-4ea3-84b0-3dc0f7ce3a70",
+    "title": "材料科学与BCI电极创新",
+    "domain": "materials_science",
+    "topics": [
+      "柔性电极",
+      "生物相容性",
+      "长期植入",
+      "纳米材料"
+    ],
+    "insight": "脑机接口的性能和安全性很大程度上取决于电极材料的选择。传统刚性金属电极会引起免疫反应和神经炎症，限制长期使用。柔性聚合物电极、导电水凝胶和纳米材料提供了更好的生物相容性和更稳定的神经接口，为长期植入式BCI开辟了新可能。",
+    "evidence": [
+      "柔性电极的免疫响应显著低于刚性电极",
+      "导电聚合物可以在神经界面提供更稳定的记录",
+      "纳米材料增强的电极具有更高的信噪比"
+    ],
+    "action_items": [
+      "开发下一代生物相容性电极材料",
+      "建立长期植入式BCI的安全评估标准",
+      "探索可降解电极在临时BCI中的应用"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "材料科学家",
+      "生物医学工程师"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T04:40:32.592478",
+    "updated_at": "2026-01-31T04:40:32.592478",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于材料科学与BCI电极创新的问题"
+        ],
+        "keywords": [
+          "柔性电极",
+          "生物相容性",
+          "长期植入",
+          "纳米材料"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "a6dcbb7f-1588-4d6e-8273-6d297c0119bb",
+    "title": "🎇 碳丝灯泡到乱层石墨烯的转化 - Tour团队历史复现",
+    "domain": "materials_science",
+    "topics": [
+      "石墨烯",
+      "碳材料",
+      "爱迪生",
+      "历史复现",
+      "纳米技术",
+      "电照明"
+    ],
+    "capsule_type": "general",
+    "insight": "Tour团队用现代分析技术重现爱迪生1879年碳丝灯泡实验，发现碳化竹丝在110伏电压下可转化为乱层石墨烯，连接了电气化时代与纳米材料时代。",
+    "evidence": [
+      "碳化竹丝在110伏直流电压下发生结构转变",
+      "X射线衍射显示乱层石墨烯特征峰",
+      "TEM观察证实石墨烯层状结构"
+    ],
+    "action_items": [
+      "探索碳丝转化为石墨烯的规模化方法",
+      "研究不同碳源材料的转化潜力",
+      "评估乱层石墨烯的应用价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "材料科学、能源存储、纳米技术",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "James M. Tour",
+      "托马斯·爱迪生"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:08:26.386371",
+    "updated_at": "2026-01-31T10:08:26.386372",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🎇 碳丝灯泡到乱层石墨烯的转化 - Tour团队历史复现的问题"
+        ],
+        "keywords": [
+          "石墨烯",
+          "碳材料",
+          "爱迪生",
+          "历史复现",
+          "纳米技术",
+          "电照明"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "95f19ec2-fc3a-4451-9ffb-504b964e32f5",
+    "title": "🎇 碳丝灯泡到乱层石墨烯的转化 - Tour团队历史复现",
+    "domain": "materials_science",
+    "topics": [
+      "石墨烯",
+      "碳材料",
+      "爱迪生",
+      "历史复现",
+      "纳米技术",
+      "电照明"
+    ],
+    "capsule_type": "general",
+    "insight": "Tour团队用现代分析技术重现爱迪生1879年碳丝灯泡实验，发现碳化竹丝在110伏电压下可转化为乱层石墨烯，连接了电气化时代与纳米材料时代。",
+    "evidence": [
+      "碳化竹丝在110伏直流电压下发生结构转变",
+      "X射线衍射显示乱层石墨烯特征峰",
+      "TEM观察证实石墨烯层状结构"
+    ],
+    "action_items": [
+      "探索碳丝转化为石墨烯的规模化方法",
+      "研究不同碳源材料的转化潜力",
+      "评估乱层石墨烯的应用价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "材料科学、能源存储、纳米技术",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "James M. Tour",
+      "托马斯·爱迪生"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:08:35.774784",
+    "updated_at": "2026-01-31T10:08:35.774786",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🎇 碳丝灯泡到乱层石墨烯的转化 - Tour团队历史复现的问题"
+        ],
+        "keywords": [
+          "石墨烯",
+          "碳材料",
+          "爱迪生",
+          "历史复现",
+          "纳米技术",
+          "电照明"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "f38d6f16-c625-44e8-a647-78ee6c52e73b",
+    "title": "🔬 牛顿棱镜实验的量子光学重现",
+    "domain": "physics",
+    "topics": [
+      "牛顿",
+      "棱镜分光",
+      "量子光学",
+      "历史复现",
+      "光学"
+    ],
+    "capsule_type": "general",
+    "insight": "现代物理学家用超快激光技术重现牛顿1666年棱镜分光实验，揭示了光子-声子耦合的新现象，拓展了量子光学边界。",
+    "evidence": [
+      "超快激光照射下棱镜产生新型光谱结构",
+      "观察到光子-声子耦合导致的能量转移",
+      "实验可重复性得到验证"
+    ],
+    "action_items": [
+      "研究新型光谱结构的应用潜力",
+      "探索量子光学器件的新设计",
+      "开发基于历史光学实验的教学工具"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "量子光学、光学器件、光谱分析",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "艾萨克·牛顿",
+      "现代量子光学团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:08:35.776966",
+    "updated_at": "2026-01-31T10:08:35.776966",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🔬 牛顿棱镜实验的量子光学重现的问题"
+        ],
+        "keywords": [
+          "牛顿",
+          "棱镜分光",
+          "量子光学",
+          "历史复现",
+          "光学"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "ae2b499e-0afd-4085-ab85-a55c1c3ca692",
+    "title": "🧠 巴甫洛夫条件反射的神经可塑性机制",
+    "domain": "neuroscience",
+    "topics": [
+      "巴甫洛夫",
+      "条件反射",
+      "神经可塑性",
+      "历史复现",
+      "神经科学"
+    ],
+    "capsule_type": "general",
+    "insight": "现代神经科学家用光遗传学技术重现巴甫洛夫1897年条件反射实验，揭示了突触可塑性的分子机制，验证并深化了经典理论。",
+    "evidence": [
+      "光遗传学精确控制神经环路",
+      "观察到突触强度的可塑性变化",
+      "分子层面机制得到阐明"
+    ],
+    "action_items": [
+      "开发基于神经可塑性的学习方法",
+      "探索治疗神经疾病的新靶点",
+      "优化人工智能强化学习算法"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "神经疾病治疗、教育心理学、人工智能",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "伊万·巴甫洛夫",
+      "现代神经科学团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:08:35.778629",
+    "updated_at": "2026-01-31T10:08:35.778630",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🧠 巴甫洛夫条件反射的神经可塑性机制的问题"
+        ],
+        "keywords": [
+          "巴甫洛夫",
+          "条件反射",
+          "神经可塑性",
+          "历史复现",
+          "神经科学"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "44ca5cf4-d967-4b61-a20a-0c68ab774dee",
+    "title": "🧬 孟德尔豌豆实验的计算基因组学重现",
+    "domain": "biology",
+    "topics": [
+      "孟德尔",
+      "豌豆实验",
+      "基因组学",
+      "历史复现",
+      "遗传学"
+    ],
+    "capsule_type": "general",
+    "insight": "计算生物学家用全基因组测序技术重新分析孟德尔1865年豌豆实验数据，发现了基因网络调控的新模式，深化了遗传学理论。",
+    "evidence": [
+      "全基因组关联分析验证经典遗传规律",
+      "发现基因间的非加性效应",
+      "建立基因调控网络模型"
+    ],
+    "action_items": [
+      "开发精准育种新方法",
+      "预测复杂性状的遗传基础",
+      "优化基因组编辑策略"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "农业育种、医学遗传学、进化生物学",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "格雷戈尔·孟德尔",
+      "现代计算生物学家"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:08:35.780178",
+    "updated_at": "2026-01-31T10:08:35.780178",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🧬 孟德尔豌豆实验的计算基因组学重现的问题"
+        ],
+        "keywords": [
+          "孟德尔",
+          "豌豆实验",
+          "基因组学",
+          "历史复现",
+          "遗传学"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "3a311f2a-f35e-40e7-902c-34eb617d8671",
+    "title": "🎇 碳丝灯泡到乱层石墨烯的转化 - Tour团队历史复现",
+    "domain": "materials_science",
+    "topics": [
+      "历史复现",
+      "materials_science"
+    ],
+    "capsule_type": "general",
+    "insight": "Tour团队用现代分析技术重现爱迪生1879年碳丝灯泡实验，发现碳化竹丝在110伏电压下可转化为乱层石墨烯。",
+    "evidence": [
+      "基于 materials_science 领域的历史实验重现"
+    ],
+    "action_items": [
+      "探索历史实验的现代价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "materials_science",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "历史复现研究团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:09:12.905894",
+    "updated_at": "2026-01-31T10:09:12.905896",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🎇 碳丝灯泡到乱层石墨烯的转化 - Tour团队历史复现的问题"
+        ],
+        "keywords": [
+          "历史复现",
+          "materials_science"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "052d6f0b-e180-4d88-a09d-d7d60815e7ca",
+    "title": "🔬 牛顿棱镜实验的量子光学重现",
+    "domain": "physics",
+    "topics": [
+      "历史复现",
+      "physics"
+    ],
+    "capsule_type": "general",
+    "insight": "现代物理学家用超快激光技术重现牛顿1666年棱镜分光实验，揭示了光子-声子耦合的新现象。",
+    "evidence": [
+      "基于 physics 领域的历史实验重现"
+    ],
+    "action_items": [
+      "探索历史实验的现代价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "physics",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "历史复现研究团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:09:12.908068",
+    "updated_at": "2026-01-31T10:09:12.908068",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🔬 牛顿棱镜实验的量子光学重现的问题"
+        ],
+        "keywords": [
+          "历史复现",
+          "physics"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "903e5dd4-274e-45b2-b5b2-ff09c867a2a5",
+    "title": "🧠 巴甫洛夫条件反射的神经可塑性机制",
+    "domain": "neuroscience",
+    "topics": [
+      "历史复现",
+      "neuroscience"
+    ],
+    "capsule_type": "general",
+    "insight": "现代神经科学家用光遗传学技术重现巴甫洛夫1897年条件反射实验，揭示了突触可塑性的分子机制。",
+    "evidence": [
+      "基于 neuroscience 领域的历史实验重现"
+    ],
+    "action_items": [
+      "探索历史实验的现代价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "neuroscience",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "历史复现研究团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:09:12.909664",
+    "updated_at": "2026-01-31T10:09:12.909665",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🧠 巴甫洛夫条件反射的神经可塑性机制的问题"
+        ],
+        "keywords": [
+          "历史复现",
+          "neuroscience"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "50cdf581-4581-46e6-b1e3-ff2cac7e2f1d",
+    "title": "🧬 孟德尔豌豆实验的计算基因组学重现",
+    "domain": "biology",
+    "topics": [
+      "历史复现",
+      "biology"
+    ],
+    "capsule_type": "general",
+    "insight": "计算生物学家用全基因组测序技术重新分析孟德尔1865年豌豆实验数据，发现了基因网络调控的新模式。",
+    "evidence": [
+      "基于 biology 领域的历史实验重现"
+    ],
+    "action_items": [
+      "探索历史实验的现代价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "biology",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "历史复现研究团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:09:12.911162",
+    "updated_at": "2026-01-31T10:09:12.911162",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🧬 孟德尔豌豆实验的计算基因组学重现的问题"
+        ],
+        "keywords": [
+          "历史复现",
+          "biology"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "384c51dc-c39c-48ea-af21-84ff0c6e7037",
+    "title": "🎇 碳丝灯泡到乱层石墨烯的转化 - Tour团队历史复现",
+    "domain": "materials_science",
+    "topics": [
+      "历史复现",
+      "materials_science"
+    ],
+    "capsule_type": "historical_replication",
+    "insight": "Tour团队用现代分析技术重现爱迪生1879年碳丝灯泡实验，发现碳化竹丝在110伏电压下可转化为乱层石墨烯。",
+    "evidence": [
+      "基于 materials_science 领域的历史实验重现"
+    ],
+    "action_items": [
+      "探索历史实验的现代价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "materials_science",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "历史复现研究团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:11:02.787186",
+    "updated_at": "2026-01-31T10:11:02.787188",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🎇 碳丝灯泡到乱层石墨烯的转化 - Tour团队历史复现的问题"
+        ],
+        "keywords": [
+          "历史复现",
+          "materials_science"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "d7f3b8c3-884d-4172-9969-cf0919ca6c80",
+    "title": "🔬 牛顿棱镜实验的量子光学重现",
+    "domain": "physics",
+    "topics": [
+      "历史复现",
+      "physics"
+    ],
+    "capsule_type": "historical_replication",
+    "insight": "现代物理学家用超快激光技术重现牛顿1666年棱镜分光实验，揭示了光子-声子耦合的新现象。",
+    "evidence": [
+      "基于 physics 领域的历史实验重现"
+    ],
+    "action_items": [
+      "探索历史实验的现代价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "physics",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "历史复现研究团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:11:02.789433",
+    "updated_at": "2026-01-31T10:11:02.789434",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🔬 牛顿棱镜实验的量子光学重现的问题"
+        ],
+        "keywords": [
+          "历史复现",
+          "physics"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "6aab8a78-513a-40a0-935a-56e3be21e0c7",
+    "title": "🧠 巴甫洛夫条件反射的神经可塑性机制",
+    "domain": "neuroscience",
+    "topics": [
+      "历史复现",
+      "neuroscience"
+    ],
+    "capsule_type": "historical_replication",
+    "insight": "现代神经科学家用光遗传学技术重现巴甫洛夫1897年条件反射实验，揭示了突触可塑性的分子机制。",
+    "evidence": [
+      "基于 neuroscience 领域的历史实验重现"
+    ],
+    "action_items": [
+      "探索历史实验的现代价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "neuroscience",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "历史复现研究团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:11:02.791074",
+    "updated_at": "2026-01-31T10:11:02.791074",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🧠 巴甫洛夫条件反射的神经可塑性机制的问题"
+        ],
+        "keywords": [
+          "历史复现",
+          "neuroscience"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  },
+  {
+    "id": "309e32e6-42ee-448f-93ed-e92f623a7f5e",
+    "title": "🧬 孟德尔豌豆实验的计算基因组学重现",
+    "domain": "biology",
+    "topics": [
+      "历史复现",
+      "biology"
+    ],
+    "capsule_type": "historical_replication",
+    "insight": "计算生物学家用全基因组测序技术重新分析孟德尔1865年豌豆实验数据，发现了基因网络调控的新模式。",
+    "evidence": [
+      "基于 biology 领域的历史实验重现"
+    ],
+    "action_items": [
+      "探索历史实验的现代价值"
+    ],
+    "datm_score": {
+      "truth": 75.0,
+      "goodness": 75.0,
+      "beauty": 75.0,
+      "intelligence": 75.0
+    },
+    "confidence": 0.7,
+    "applicability": "biology",
+    "limitations": [],
+    "reproducibility": 0.5,
+    "impact_potential": 0.5,
+    "source_type": "manual",
+    "source_id": null,
+    "authors": [
+      "历史复现研究团队"
+    ],
+    "license": "MIT",
+    "created_at": "2026-01-31T10:11:02.792579",
+    "updated_at": "2026-01-31T10:11:02.792579",
+    "version": "2.0",
+    "citations": 0,
+    "use_cases": [],
+    "validations": 0,
+    "impact_score": 0.0,
+    "four_dimensional": {
+      "dimension_1": "science",
+      "dimension_2": "truth",
+      "dimension_3": "discovery",
+      "dimension_4": "discovery"
+    },
+    "ai_native": {
+      "think_pattern": {
+        "mode": "knowledge_retrieval",
+        "process": [
+          "理解问题",
+          "检索胶囊",
+          "提取洞见",
+          "组织回答"
+        ]
+      },
+      "trigger": {
+        "user_asks": [
+          "关于🧬 孟德尔豌豆实验的计算基因组学重现的问题"
+        ],
+        "keywords": [
+          "历史复现",
+          "biology"
+        ]
+      },
+      "tools_needed": [
+        {
+          "tool": "capsule_search",
+          "purpose": "检索相关胶囊"
+        },
+        {
+          "tool": "context Assemble",
+          "purpose": "组织答案"
+        }
+      ],
+      "reasoning": {
+        "chain": "问题分析 → 胶囊匹配 → 洞见提取 → 答案生成"
+      },
+      "response": {
+        "template": "根据{胶囊标题}: {核心洞见}"
+      }
+    }
+  }
+]
